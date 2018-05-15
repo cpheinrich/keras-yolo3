@@ -37,3 +37,8 @@ python yolo.py   OR   python yolo_video.py
 3. Modify train.py and start training.  
     `python train.py`  
     You will get the trained model model_data/my_yolo.h5.
+    
+    
+## Credits
+
+This is a fork of: https://github.com/qqwweee/keras-yolo3
