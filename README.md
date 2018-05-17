@@ -6,6 +6,9 @@
 
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 
+
+![alt text](https://raw.githubusercontent.com/cpheinrich/keras-yolo3/master/test_out/dash_view.bmp)
+
 ---
 
 ## Quick Start
