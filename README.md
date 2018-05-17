@@ -44,4 +44,4 @@ python yolo.py   OR   python yolo_video.py
     
 ## Credits
 
-This is a fork of: https://github.com/qqwweee/keras-yolo3
+Fork of: https://github.com/qqwweee/keras-yolo3
